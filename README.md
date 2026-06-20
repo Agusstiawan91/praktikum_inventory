@@ -20,4 +20,4 @@ PT Auto Garage adalah perusahaan yang bergerak di bidang penjualan dan pemasanga
 6.	Mengembangkan sumber daya manusia yang kompeten dan berintegritas dalam bidang otomotif.
 
 # LOGO PERUSAHAAN
-![Teks Alternatif](gambar_1.jpg)
+![Teks Alternatif](gambar1.jpg)
