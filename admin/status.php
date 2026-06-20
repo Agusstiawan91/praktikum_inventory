@@ -1,10 +1,7 @@
 <?php
 session_start();
 include '../koneksi.php';
-
-if ($_SESSION['role'] != 'admin') {
-    die("Akses ditolak");
-}
+ 
 
 $data = mysqli_query(
     $koneksi,
