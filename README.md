@@ -21,3 +21,25 @@ PT Auto Garage adalah perusahaan yang bergerak di bidang penjualan dan pemasanga
 
 # LOGO PERUSAHAAN
 ![Teks Alternatif](gambar1.jpg)
+
+# TAMPILAN INVENTORY WEBSITE
+
+# LOGIN
+![Teks Alternatif](login.png)
+
+# REGISTRASI
+![Teks Alternatif](registrasi.png)
+
+# TAMPILAN ADMIN
+![Teks Alternatif](tampilan_admin.png)
+
+# PROFILE
+![Teks Alternatif](profil.png)
+
+# TAMPILAN USER
+![Teks Alternatif](tampilan_user.png)
+
+# TAMPILAN TAMBAH DATA
+![Teks Alternatif](tambah_data.png)
+
+# LINK YOUTUBE
